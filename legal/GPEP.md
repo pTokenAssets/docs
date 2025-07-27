@@ -2,11 +2,15 @@
 
 ## 🪙 pToken™ Assets, a Wyoming DUNA
 
-* [♾️ WeOwn.xyz 🌐 ● 🗳 PTIP-1 ● GPEP (Governing Principles and Established Practices) ● 🪙 pToken™ Assets](https://www.weown.xyz/portal/space/ptoken/post/ptip-1-gpep)
-
 # 👋 Introduction: 
 
 This document outlines the Governing Principles and Established Practices (GPEP) for pToken™ Assets, a Wyoming Decentralized Unincorporated Nonprofit Association (DUNA) formed on Saturday, July 26th, 2025, via Community Call (CC02). The GPEP serves as a foundational guide for the organization's operations, decision-making processes, and community engagement.
+
+### 🔗 Links ● 🗳 PTIP-1 ● GPEP (Governing Principles and Established Practices)
+
+* [♾️ WeOwn.xyz 🌐](https://www.weown.xyz/portal/space/ptoken/post/ptip-1-gpep)
+* [Google Docs](https://docs.google.com/document/d/13vey1rOugLiUoW35-qAHSX0v0HYjzE3tj4QJbhxw8NQ/edit?usp=sharing)
+* [🗳 Vote (🔜): Snapshot.box (vote.ret.team)](https://vote.ret.team/)
 
 ## 1. ⭕️ Decentralization and Inclusivity, 👥 ➕ by invitation only
 
