@@ -10,7 +10,7 @@ This document outlines the Governing Principles and Established Practices (GPEP)
 
 * [♾️ WeOwn.xyz 🌐](https://www.weown.xyz/portal/space/ptoken/post/ptip-1-gpep)
 * [Google Docs](https://docs.google.com/document/d/13vey1rOugLiUoW35-qAHSX0v0HYjzE3tj4QJbhxw8NQ/edit?usp=sharing)
-* [🗳 Vote (🔜): Snapshot.box (vote.ret.team)](https://vote.ret.team/)
+* [🗳 Vote: Snapshot.box](https://snapshot.box/#/s:retokendao.eth/proposal/0x5180c5e292bd390752fe58ed20bf84af58d6ad022f67edce932c6266b8176803)
 
 ## 1. ⭕️ Decentralization and Inclusivity, 👥 ➕ by invitation only
 
